@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @makosdDavid
-- 👀 I’m interested in web development
+- 👋 Hi, I’m @makosdDavid!
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, CSS, JS, and React.
 - 💞️ I’m looking to collaborate on every kind of work, on junior level. 
 - 📫 You can reach me in email: makosdavid.dev@gmail.com
